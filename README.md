@@ -1,3 +1,5 @@
 # alfred-workflow-btc-price
-BTC Price
-Check Bitcoin Price
+
+alfredworkflow to check bitcoin price 
+
+Keywords is : BTC
